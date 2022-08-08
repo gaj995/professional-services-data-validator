@@ -2,6 +2,13 @@
 
 ## Untagged
 
+## [2.1.1](https://github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v2.1.0...v2.1.1) (2022-08-08)
+
+
+### Bug Fixes
+
+* Issue422 replace print with logging ([#543](https://github.com/GoogleCloudPlatform/professional-services-data-validator/issues/543)) ([78222b4](https://github.com/GoogleCloudPlatform/professional-services-data-validator/commit/78222b4d3780818112426f9e6f486301b5b9786e))
+
 ## [2.1.0](https://github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v2.0.1...v2.1.0) (2022-07-14)
 
 
